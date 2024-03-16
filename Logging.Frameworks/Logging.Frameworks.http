@@ -1,0 +1,6 @@
+@Logging.Frameworks_HostAddress = http://localhost:5249
+
+GET {{Logging.Frameworks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
